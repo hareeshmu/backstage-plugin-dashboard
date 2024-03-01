@@ -1,0 +1,11 @@
+app:
+  title: Backstage Dashboard plugin
+  baseUrl: http://localhost:3000
+
+backend:
+  baseUrl: http://localhost:7007
+  listen:
+    port: 7007
+
+dashboard:
+  url: "http://localhost:3100"
